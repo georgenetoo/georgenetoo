@@ -10,4 +10,4 @@
   <img height="180em" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgenetoo&layout=compact&langs_count=7&theme=holi"/>
 </div>
    
-[![My Skills](https://skillicons.dev/icons?i=python,c,ts,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git)](https://skillicons.dev)
