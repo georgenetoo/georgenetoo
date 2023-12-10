@@ -1,8 +1,8 @@
 ### Hi there, i´m George 👋
 
-• I'm a Computer Science (CS) Student 👨‍💻 
-• I live in Recife, Brazil 📍
-• I'm always open to learn new things 🎯
+ - I'm a Computer Science (CS) Student 👨‍💻
+ - I live in Recife, Brazil 📍
+ - I'm always open to learn new things 🎯
 
 <div align="left">
   <a href="https://github.com/georgenetoo>
