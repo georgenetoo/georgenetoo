@@ -12,6 +12,6 @@
 <div>
  
  ## 🖥 | Technologies :
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css)](https://skillicons.dev)
 <br></br>
 </div>
