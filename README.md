@@ -39,7 +39,9 @@
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/george-neto-9b872726b/)  
-📧 almerio1710@gmail.com
+<a href="mailto:almerio1710@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 
 ---
 
